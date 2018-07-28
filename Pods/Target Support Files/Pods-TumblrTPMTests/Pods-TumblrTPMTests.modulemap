@@ -1,0 +1,6 @@
+framework module Pods_TumblrTPMTests {
+  umbrella header "Pods-TumblrTPMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
